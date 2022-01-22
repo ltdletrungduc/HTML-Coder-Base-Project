@@ -73,3 +73,7 @@ node_modules/
 
 ### Scripts FOLDER
 ./scripts/
+
+### Ignore Prettier config files
+.prettierrc
+.prettierignore
