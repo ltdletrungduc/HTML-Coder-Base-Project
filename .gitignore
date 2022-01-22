@@ -71,8 +71,11 @@ node_modules/
 *.sass.map
 *.scss.map
 
-### Scripts FOLDER
-./scripts/
+### Scripts FOLDER - Only on Production
+# ./scripts/
+
+### SCSS + Source Map - Only on Production
+# SCSS path
 
 ### Ignore Prettier config files
 .prettierrc
